@@ -1,4 +1,4 @@
-/*	taste the rainbow */
+/* taste the rainbow */
 
 local function vulcan(n, t)
 	if n == 1 then
